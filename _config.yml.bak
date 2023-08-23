@@ -28,16 +28,11 @@ baseurl: "radio" # the subpath of your site, e.g. /blog
 url: "https://opedromandrade.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: opedromandrade
 github_username: opedromandrade
-# post author and vodoo master
-author: pedro andrade
+
 # Build settings
 theme: minima
-show_excerpts: true
 plugins:
   - jekyll-feed
----
-excerpt_separator: <!--more-->
----
 
 # Exclude from processing.
 # The following items will not be processed, by default.
