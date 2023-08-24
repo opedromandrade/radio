@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Welcome to this archive!"
+date:   2023-08-23 18:28:13 +0000
+categories: Personal
+tags: 
+---
+
+Starting anew this blog where I'll try to regularly post some interesting recordings, QSL Cards and radio findings.
+
+Adult life is unpredictable and at times really busy, so not we don't always have the desired time and energy for hobbies an passions.
+
+See you on the ether.
